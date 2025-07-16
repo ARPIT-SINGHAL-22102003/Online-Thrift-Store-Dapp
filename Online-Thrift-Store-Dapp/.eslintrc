@@ -1,10 +1,10 @@
 {
-  parser: "babel-eslint",
-  extends: "airbnb",
-  env: {
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
     "browser": true
   },
-  rules: {
+ "rules": {
     "import/no-unresolved": "off",
     "import/no-extraneous-dependencies": "off",
     "import/extensions": "off",
